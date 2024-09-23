@@ -86,7 +86,7 @@
 <div align="center">
 
 ### 🔝 Top Contributed Repo
-<img src="https://github-contributor-stats.vercel.app/api?username=minha0100&limit=5&theme=aura&combine_all_yearly_contributions=true" />
+<img src="https://github-contributor-stats.vercel.app/api?username=minhaz0100&limit=5&theme=aura&combine_all_yearly_contributions=true" />
 </div>
 <br>
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=minhaz0100&label=Visited&color=8a2be2&style=plastic" /> </p>
