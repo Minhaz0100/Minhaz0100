@@ -42,7 +42,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/>
 </a>
 <a href="https://github.com" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="60" height="60"/>💙
 </a>
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs-code" width="60" height="60"/>
@@ -55,10 +55,10 @@
 
 <div align="center">
 
-  ##  Streak Stats 	💪
+  ##  Streak Stats 	💫
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=6emrulhossain9&theme=aura&border=ffffff" alt="6emrulhossain9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz0100&ytheme=aura&border=ffffff" alt="6emrulhossain9"/>
 </div>
 
 <div align="center">
