@@ -58,7 +58,7 @@
   ##  Streak Stats 	💫
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz0100&ytheme=aura&border=ffffff" alt="6emrulhossain9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz0100&ytheme=aura&border=ffffff" alt="minhaz0100"/>
 </div>
 
 <div align="center">
