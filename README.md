@@ -77,11 +77,13 @@
 
 <div align="center">
   ✍️ Random Dev Quote
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura&border=ffffff" alt="Random Dev Quote"/>
+  
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=aura&border=008000" alt="Random Dev Quote"/>
 </div>
 
 <div align="center">
-  ### 🔝 Top Contributed Repo
+  🔝 Top Contributed Repo
+  
   <img src="https://github-contributor-stats.vercel.app/api?username=minhaz0100&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
 </div>
 <br>
