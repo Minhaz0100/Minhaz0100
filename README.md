@@ -47,6 +47,9 @@
 <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs-code" width="60" height="60"/>
 </a>
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="60" height="60"/>
+</a>
 
 </div>
 
@@ -58,7 +61,7 @@
   ##  Streak Stats 	💫
   <br>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz0100&ytheme=aura&border=ffffff" alt="minhaz0100"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz0100&ytheme=aura&border=00ffff" alt="minhaz0100"/>
 </div>
 
 <div align="center">
