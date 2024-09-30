@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%F0%9F%92%99+WELCOME+%F0%9F%92%99+TO+my+profile!+%F0%9F%A5%80;+This+is+MINHAZUL+ISLAM!" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=%F0%9F%92%99+WELCOME+%F0%9F%92%99+TO+my+profile+%F0%9F%A5%80;+This+is+MINHAZUL+ISLAM" />
 </h1>
 
 <h1 align="center"><b>👨‍💻 MINHAZUL-ISLAM 👨‍💻</b></h1>
