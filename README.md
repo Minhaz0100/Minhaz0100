@@ -18,18 +18,19 @@
 
 <div align="center">
   🇧🇩 Connect with ME 📬
+    
   <div align="center">
     <a href="https://twitter.com/minhaz_0404" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhaz_0404" height="50" width="60" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhaz_0404" height="30" width="40" />
     </a>
     <a href="https://www.instagram.com/minhaz0404/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhaz0404" height="50" width="60" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhaz0404" height="30" width="40" />
     </a>
     <a href="https://www.facebook.com/minhaz636/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhaz636" height="50" width="60" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhaz636" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/md-minhazul-islam-262255290" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-minhazul-islam-262255290" height="50" width="60" />
+      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-minhazul-islam-262255290" height="30" width="40" />
     </a>
   </div>
 
