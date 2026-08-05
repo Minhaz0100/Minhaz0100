@@ -1,3 +1,4 @@
+
 <!-- ====================================================== -->
 <!--                  HEADER SECTION                         -->
 <!-- ====================================================== -->
@@ -7,7 +8,7 @@
 </h1>
 
 <h3 align="center">
-🇧🇩 Computer Science & Engineering Student
+Computer Science & Engineering Student
 </h3>
 
 <p align="center">
@@ -76,7 +77,29 @@ Goal:
 </p>
 
 ---
+# 📊 Coding Profiles
 
+<p align="center">
+
+<a href="https://github.com/minhaz0100">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
+</a>
+
+<a href="https://codeforces.com/">
+<img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge"/>
+</a>
+
+</p>
+
+---
 # 💻 Tech Stack
 
 ### Programming Languages
@@ -147,155 +170,23 @@ Goal:
 
 </p>
 
----
-<!-- ====================================================== -->
-<!--                  HEADER SECTION                         -->
-<!-- ====================================================== -->
-
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+To+My+GitHub+Profile!;I'm+MINHAZUL+ISLAM;Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;Always+Learning+Something+New+🚀" />
-</h1>
-
-<h3 align="center">
-🇧🇩 Computer Science & Engineering Student
-</h3>
+📊 GitHub Statistics
 
 <p align="center">
 
-<a href="https://github.com/minhaz0100">
-<img src="https://img.shields.io/github/followers/minhaz0100?logo=github&style=for-the-badge"/>
-</a>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhaz0100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<a href="https://github.com/minhaz0100">
-<img src="https://img.shields.io/github/stars/minhaz0100?style=for-the-badge"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=minhaz0100&style=for-the-badge&color=blueviolet"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz0100&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
-
----
-
-# 👨‍💻 About Me
-
-```yaml
-Name:        MINHAZUL ISLAM
-
-Country:     Bangladesh 🇧🇩
-
-Department:  Computer Science & Engineering
-
-Learning:    Java
-
-Interest:
-  - Web Development
-  - Software Engineering
-  - Problem Solving
-  - Open Source
-
-Goal:
-  Become a Professional Software Engineer 🚀
-```
-
----
-
-# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="mailto:minhaz00404@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://linkedin.com/in/md-minhazul-islam-262255290">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="https://www.facebook.com/minhaz636">
-<img src="https://skillicons.dev/icons?i=facebook"/>
-</a>
-
-<a href="https://www.instagram.com/minhaz0404">
-<img src="https://skillicons.dev/icons?i=instagram"/>
-</a>
-
-<a href="https://twitter.com/minhaz_0404">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz0100&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
-
-# 💻 Tech Stack
-
-### Programming Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=c"/>
-
-<img src="https://skillicons.dev/icons?i=cpp"/>
-
-<img src="https://skillicons.dev/icons?i=java"/>
-
-<img src="https://skillicons.dev/icons?i=python"/>
-
-<img src="https://skillicons.dev/icons?i=js"/>
-
-</p>
-
-### Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html"/>
-
-<img src="https://skillicons.dev/icons?i=css"/>
-
-<img src="https://skillicons.dev/icons?i=bootstrap"/>
-
-<img src="https://skillicons.dev/icons?i=tailwind"/>
-
-<img src="https://skillicons.dev/icons?i=react"/>
-
-</p>
-
-### Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=nodejs"/>
-
-<img src="https://skillicons.dev/icons?i=express"/>
-
-<img src="https://skillicons.dev/icons?i=firebase"/>
-
-</p>
-
-### Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-
-<img src="https://skillicons.dev/icons?i=mysql"/>
-
-</p>
-
-### Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://skillicons.dev/icons?i=vscode"/>
-
-<img src="https://skillicons.dev/icons?i=linux"/>
-
-</p>
 <!-- ====================================================== -->
 <!--              PROJECTS & GOALS SECTION                  -->
 <!-- ====================================================== -->
@@ -462,24 +353,12 @@ I enjoy collaborating on:
 <!--                 FINAL PREMIUM SECTION                  -->
 <!-- ====================================================== -->
 
-# 📈 Coding Activity
+📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhaz0100&theme=tokyonight"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaz0100&theme=tokyo-night&hide_border=true"/>
 </p>
-
 ---
-
-# 🌍 Contribution Calendar
-
-<p align="center">
-
-<img src="https://ghchart.rshah.org/00bfff/minhaz0100"/>
-
-</p>
-
 ---
 
 # 🐍 Contribution Snake
@@ -568,7 +447,11 @@ If you find my projects useful, you can support me by:
 > **"The best way to predict the future is to create it."**
 
 ---
+<h3>✍️ Random Dev Quote</h3>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=monospace" alt="Random Dev Quote"/>
+<div align="center">
 
+---
 # 🙏 Thanks for Visiting
 
 <p align="center">
