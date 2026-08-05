@@ -352,28 +352,13 @@ I enjoy collaborating on:
 <!-- ====================================================== -->
 <!--                 FINAL PREMIUM SECTION                  -->
 <!-- ====================================================== -->
-
-📈 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=minhaz0100&theme=tokyo-night&hide_border=true"/>
 </p>
----
----
-
-# 🐍 Contribution Snake
-
-> **⚠️ Requires GitHub Actions setup.**
-> This image will appear automatically after enabling the Snake workflow.
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/minhaz0100/minhaz0100/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
 
 ---
-
 # 💻 Development Environment
 
 ```text
