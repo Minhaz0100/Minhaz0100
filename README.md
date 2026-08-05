@@ -32,7 +32,7 @@ Computer Science & Engineering Student
 ```yaml
 Name:        MINHAZUL ISLAM
 
-Country:     Bangladesh 🇧🇩
+Country:     Bangladesh 
 
 Department:  Computer Science & Engineering
 
