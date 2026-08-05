@@ -1,92 +1,586 @@
+<!-- ====================================================== -->
+<!--                  HEADER SECTION                         -->
+<!-- ====================================================== -->
+
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4500&lines=%F0%9F%92%99+WELCOME+%F0%9F%92%99+TO+my+profile+%F0%9F%A5%80;+This+is+MINHAZUL+ISLAM" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+To+My+GitHub+Profile!;I'm+MINHAZUL+ISLAM;Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;Always+Learning+Something+New+🚀" />
 </h1>
 
-<h1 align="center"><b>👨‍💻 MINHAZUL-ISLAM 👨‍💻</b></h1>
-<br>
+<h3 align="center">
+🇧🇩 Computer Science & Engineering Student
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer%20Science%20Student;Aspiring%20Software%20Engineer;Always%20Learning%20New%20Things&font=Fira%20Code&center=true&width=440&height=45&color=008000&vCenter=true&size=25" alt="Typing SVG">
+
+<a href="https://github.com/minhaz0100">
+<img src="https://img.shields.io/github/followers/minhaz0100?logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/minhaz0100">
+<img src="https://img.shields.io/github/stars/minhaz0100?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=minhaz0100&style=for-the-badge&color=blueviolet"/>
+
 </p>
 
-<div align="center">
-  <h3>Currently Learning <strong>Java</strong> 📓</h3>
-  <h3><strong>Be a good person</strong> 😎</h3>
-  <h3>📧 Contact me at: <strong><a href="mailto:minhaz00404@gmail.com" style="color:#8a2be2;">minhaz00404@gmail.com</a></strong></h3>
-</div>
-<br>
+---
 
-<div align="center">
-  🇧🇩 Connect with ME 📬
-    
-  <div align="center">
-    <a href="https://twitter.com/minhaz_0404" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="minhaz_0404" height="30" width="40" />
-    </a>
-    <a href="https://www.instagram.com/minhaz0404/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="minhaz0404" height="30" width="40" />
-    </a>
-    <a href="https://www.facebook.com/minhaz636/" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="minhaz636" height="30" width="40" />
-    </a>
-    <a href="https://linkedin.com/in/md-minhazul-islam-262255290" target="_blank">
-      <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-minhazul-islam-262255290" height="30" width="40" />
-    </a>
-  </div>
+# 👨‍💻 About Me
 
-  <h3>🏅 My Languages and Tools ⚒️⚒️</h3>
+```yaml
+Name:        MINHAZUL ISLAM
 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://github.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" alt="vs-code" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-</div>
+Country:     Bangladesh 🇧🇩
 
-<div align="center">
-  <h3>🏅 Streak Stats 💫</h3>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz0100&theme=aura&border=00ffff" alt="minhaz0100"/>
-</div>
+Department:  Computer Science & Engineering
 
-<div align="center">
-  <h3>Github Stats 💥</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=minhaz0100&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=aura" alt="Github stats"/>
-</div>
+Learning:    Java
 
-<div align="center">
-  <h3>Most Used Languages 🌟</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz0100&theme=aura&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Most Used Languages"/>
-</div>
-<br>
+Interest:
+  - Web Development
+  - Software Engineering
+  - Problem Solving
+  - Open Source
 
-<div align="center">
-  <h3>✍️ Random Dev Quote</h3>
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=monospace" alt="Random Dev Quote"/>
-<div align="center">
-  <h3>🔝 Top Contributed Repo</h3>
-  <img src="https://github-contributor-stats.vercel.app/api?username=minhaz0100&limit=5&theme=aura&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
-</div>
-<br>
+Goal:
+  Become a Professional Software Engineer 🚀
+```
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=minhaz0100&label=Visited&color=8a2be2&style=plastic" alt="Profile views"/>
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:minhaz00404@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/md-minhazul-islam-262255290">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.facebook.com/minhaz636">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/minhaz0404">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://twitter.com/minhaz_0404">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+
+---
+<!-- ====================================================== -->
+<!--                  HEADER SECTION                         -->
+<!-- ====================================================== -->
+
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+To+My+GitHub+Profile!;I'm+MINHAZUL+ISLAM;Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;Always+Learning+Something+New+🚀" />
+</h1>
+
+<h3 align="center">
+🇧🇩 Computer Science & Engineering Student
+</h3>
+
+<p align="center">
+
+<a href="https://github.com/minhaz0100">
+<img src="https://img.shields.io/github/followers/minhaz0100?logo=github&style=for-the-badge"/>
+</a>
+
+<a href="https://github.com/minhaz0100">
+<img src="https://img.shields.io/github/stars/minhaz0100?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=minhaz0100&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+```yaml
+Name:        MINHAZUL ISLAM
+
+Country:     Bangladesh 🇧🇩
+
+Department:  Computer Science & Engineering
+
+Learning:    Java
+
+Interest:
+  - Web Development
+  - Software Engineering
+  - Problem Solving
+  - Open Source
+
+Goal:
+  Become a Professional Software Engineer 🚀
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:minhaz00404@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/md-minhazul-islam-262255290">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://www.facebook.com/minhaz636">
+<img src="https://skillicons.dev/icons?i=facebook"/>
+</a>
+
+<a href="https://www.instagram.com/minhaz0404">
+<img src="https://skillicons.dev/icons?i=instagram"/>
+</a>
+
+<a href="https://twitter.com/minhaz_0404">
+<img src="https://skillicons.dev/icons?i=twitter"/>
+</a>
+
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Programming Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=c"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=java"/>
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=js"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=html"/>
+
+<img src="https://skillicons.dev/icons?i=css"/>
+
+<img src="https://skillicons.dev/icons?i=bootstrap"/>
+
+<img src="https://skillicons.dev/icons?i=tailwind"/>
+
+<img src="https://skillicons.dev/icons?i=react"/>
+
+</p>
+
+### Backend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=nodejs"/>
+
+<img src="https://skillicons.dev/icons?i=express"/>
+
+<img src="https://skillicons.dev/icons?i=firebase"/>
+
+</p>
+
+### Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb"/>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+### Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=vscode"/>
+
+<img src="https://skillicons.dev/icons?i=linux"/>
+
+</p>
+<!-- ====================================================== -->
+<!--              PROJECTS & GOALS SECTION                  -->
+<!-- ====================================================== -->
+
+# 🚀 Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## 🎓 Campus Lost & Found
+
+A modern Lost & Found Management System for universities.
+
+### ⚙ Tech Stack
+
+- React
+- Node.js
+- Express
+- MongoDB
+- Firebase
+
+### ⭐ Features
+
+- User Authentication
+- Lost Item Reporting
+- Found Item Reporting
+- Search & Filter
+- Responsive UI
+
+</td>
+
+<td width="50%">
+
+## 💻 Java Projects
+
+A collection of Java practice projects.
+
+### 📚 Includes
+
+- Calculator
+- Student Management
+- Library Management
+- Banking System
+- GUI Applications
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# 🛠 Skills Progress
+
+| Technology | Level |
+|------------|--------|
+| HTML | ⭐⭐⭐⭐⭐ |
+| CSS | ⭐⭐⭐⭐☆ |
+| JavaScript | ⭐⭐⭐⭐☆ |
+| React | ⭐⭐⭐☆☆ |
+| Node.js | ⭐⭐⭐☆☆ |
+| MongoDB | ⭐⭐⭐☆☆ |
+| Java | ⭐⭐⭐☆☆ |
+| C++ | ⭐⭐⭐⭐☆ |
+| Git | ⭐⭐⭐⭐☆ |
+
+---
+
+# 📖 Currently Learning
+
+```text
+☕ Java
+
+🌐 React.js
+
+🟢 Node.js
+
+🍃 MongoDB
+
+📚 Data Structures
+
+🧠 Algorithms
+
+⚙ Software Engineering
+
+🖥 Computer Networks
+```
+
+---
+
+# 🎯 2026 Goals
+
+- ✅ Master Java
+- ✅ Master React
+- ✅ Learn Node.js
+- ✅ Learn MongoDB
+- ✅ Complete DSA
+- ✅ Build 15+ Projects
+- ✅ Contribute to Open Source
+- ✅ Get an Internship
+- ✅ Become a Software Engineer
+
+---
+
+# 🏅 Achievements
+
+🏆 CSE Student
+
+💻 Full Stack Learner
+
+☕ Java Developer (Learning)
+
+🌐 Web Developer
+
+📚 Lifelong Learner
+
+🚀 Future Software Engineer
+
+---
+
+# 💡 Developer Mindset
+
+> **"Code every day. Learn every day. Improve every day."**
+
+---
+
+# 💼 What I Do
+
+```text
+💻 Full Stack Development
+
+☕ Java Programming
+
+⚛ React Development
+
+🟢 Backend Development
+
+🍃 Database Design
+
+📱 Responsive UI Design
+
+🚀 Software Engineering
+```
+
+---
+
+# 🤝 Open to Collaborate
+
+I enjoy collaborating on:
+
+- 🌐 Full Stack Web Apps
+- ☕ Java Projects
+- ⚛ React Projects
+- 📚 Open Source
+- 🚀 Innovative Software Projects
+
+---
+---
+<!-- ====================================================== -->
+<!--                 FINAL PREMIUM SECTION                  -->
+<!-- ====================================================== -->
+
+# 📈 Coding Activity
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=minhaz0100&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌍 Contribution Calendar
+
+<p align="center">
+
+<img src="https://ghchart.rshah.org/00bfff/minhaz0100"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+> **⚠️ Requires GitHub Actions setup.**
+> This image will appear automatically after enabling the Snake workflow.
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/minhaz0100/minhaz0100/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 💻 Development Environment
+
+```text
+🖥 Operating System : Windows 11
+
+💻 Code Editor      : VS Code
+
+🌐 Browser          : Google Chrome
+
+☕ Main Language    : Java
+
+⚛ Frontend         : React
+
+🟢 Backend          : Node.js
+
+🍃 Database         : MongoDB
+
+🔧 Version Control  : Git & GitHub
+```
+
+---
+
+# 📫 Contact Me
+
+<p align="center">
+
+<a href="mailto:minhaz00404@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/md-minhazul-islam-262255290">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
+</a>
+
+<a href="https://github.com/minhaz0100">
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+<a href="https://www.facebook.com/minhaz636">
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+
+</a>
+
+</p>
+
+---
+
+# ❤️ Support My Work
+
+If you find my projects useful, you can support me by:
+
+⭐ Starring my repositories
+
+🍴 Forking my projects
+
+👥 Following my GitHub profile
+
+💬 Sharing feedback and suggestions
+
+---
+
+# 💬 Favorite Quote
+
+> **"The best way to predict the future is to create it."**
+
+---
+
+# 🙏 Thanks for Visiting
+
+<p align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Thanks+for+visiting+my+profile!;Have+a+great+day!;Happy+Coding!+🚀"/>
+
+</p>
+
+---
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,100:6A5ACD&height=180&section=footer&text=MINHAZUL%20ISLAM&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 </p>
