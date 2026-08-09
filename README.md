@@ -4,7 +4,7 @@
 <!-- ====================================================== -->
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+To+My+GitHub+Profile!;I'm+MINHAZUL+ISLAM;Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+To+My+GitHub+Profile!;I'm+MINHAZUL+ISLAM;Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;Always+Learning+Something+New" />
 </h1>
 
 <h3 align="center">
@@ -45,7 +45,7 @@ Interest:
   - Open Source
 
 Goal:
-  Become a Professional Software Engineer 🚀
+  Become a Professional Software Engineer.
 ```
 
 ---
