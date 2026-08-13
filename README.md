@@ -171,21 +171,21 @@ Goal:
 </p>
 
 📊 GitHub Statistics
-
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=minhaz0100&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+  <img
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=minhaz0100&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub Stats"
+  />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=minhaz0100&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img
+    height="170"
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minhaz0100&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Top Languages"
+  />
 
 </p>
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=minhaz0100&theme=tokyonight&hide_border=true"/>
-
-</p>
-
 ---
 <!-- ====================================================== -->
 <!--              PROJECTS & GOALS SECTION                  -->
@@ -435,6 +435,19 @@ If you find my projects useful, you can support me by:
 <h3>✍️ Random Dev Quote</h3>
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&font=monospace" alt="Random Dev Quote"/>
 <div align="center">
+
+---
+<div align="center">
+
+  <div data-importer="profile-views" align="center">
+    <img
+      data-importer="profile-views"
+      src="https://count.getloli.com/@Minhaz0100?theme=rule34&padding=5&offset=0&scale=1&align=top&pixelated=0&darkmode=auto"
+      alt="Profile Views"
+    />
+  </div>
+
+</div>
 
 ---
 # 🙏 Thanks for Visiting
