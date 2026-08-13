@@ -186,6 +186,20 @@ Goal:
   />
 
 </p>
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+  <a href="https://git.io/streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=minhaz0100&theme=tokyonight&hide_border=true&locale=en&mode=daily"
+      alt="GitHub Streak"
+    />
+  </a>
+
+</p>
+
 ---
 <!-- ====================================================== -->
 <!--              PROJECTS & GOALS SECTION                  -->
