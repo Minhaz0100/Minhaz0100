@@ -170,17 +170,17 @@ Goal:
 
 </p>
 
-📊 GitHub Statistics
+# 📊 GitHub Statistics
 <p align="center">
 
   <img
-    height="170"
+    height="150"
     src="https://github-readme-stats-eight-theta.vercel.app/api?username=minhaz0100&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub Stats"
   />
 
   <img
-    height="170"
+    height="150"
     src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=minhaz0100&layout=compact&theme=tokyonight&hide_border=true"
     alt="Top Languages"
   />
