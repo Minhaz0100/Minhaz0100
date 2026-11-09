@@ -3,7 +3,7 @@
 <!-- ====================================================== -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+To+My+GitHub+Profile!;I'm+MINHAZUL+ISLAM;Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;Building+MINOVA+AI;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=38&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&height=70&lines=Welcome+To+My+GitHub+Profile!;I'm+MINHAZUL+ISLAM;Computer+Science+Student;Aspiring+Software+Engineer;Full+Stack+Web+Developer;Building+MINOVA+AI;Building+MINWAVE+%26+Nexura+OS;Always+Learning+Something+New" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">
@@ -30,11 +30,14 @@
 
 I'm **Minhazul Islam**, a Computer Science and Engineering student at **Northern University Bangladesh** with an interest in software engineering and full stack development.
 
-I enjoy learning new technologies, solving programming problems, and building practical applications that solve real-world problems.
+I enjoy learning new technologies, solving programming problems, and building practical applications that solve real-world problems — from web apps and mobile apps to AI-powered tools.
 
 - 🎓 Computer Science & Engineering student
 - 💻 Interested in software engineering and full stack development
-- 🤖 Building **MINOVA AI**, my AI assistant project
+- 🤖 Building **MINOVA AI**, my AI assistant project (Android + Web)
+- 🎵 Building **MINWAVE**, a personal music platform with web player and mobile app sources
+- 🛒 Building **Nexura OS**, an intelligent commerce operating system for Bangladesh
+- 🎲 Developing mobile Ludo games (**LUDO Global** & **LUDO ROYALE**)
 - 🌐 Developed a university-focused Campus Lost & Found application
 - ☕ Learning Java and Object-Oriented Programming
 - 📚 Continuously learning programming, data structures, and algorithms
@@ -51,10 +54,14 @@ Department:  Computer Science & Engineering
 
 Learning:    Java
 
-Building:    MINOVA AI
+Building:
+  - MINOVA AI
+  - MINWAVE
+  - Nexura OS
 
 Interest:
   - Web Development
+  - Mobile App Development
   - Software Engineering
   - Problem Solving
   - Open Source
@@ -78,10 +85,14 @@ Goal:
         <li>Code generation and explanation</li>
         <li>Writing and productivity assistance</li>
         <li>Android application and backend integration</li>
+        <li>Web app version built with TypeScript</li>
       </ul>
       <p>
         <a href="https://github.com/Minhaz0100/MINOVA-AI-android">
-          <img src="https://img.shields.io/badge/Android-Source_Code-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="MINOVA AI Source"/>
+          <img src="https://img.shields.io/badge/Android-Source_Code-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="MINOVA AI Android Source"/>
+        </a>
+        <a href="https://github.com/Minhaz0100/MINOVA-AI-WEB_APP">
+          <img src="https://img.shields.io/badge/Web_App-Source_Code-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="MINOVA AI Web App Source"/>
         </a>
       </p>
     </td>
@@ -102,8 +113,89 @@ Goal:
         <a href="https://campus-lost-and-found-phi.vercel.app/">
           <img src="https://img.shields.io/badge/Live_Demo-Visit-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
         </a>
-        <a href="https://github.com/Minhaz0100">
+        <a href="https://github.com/Minhaz0100/Campus-Lost-Found">
           <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎵 MINWAVE</h3>
+      <p>A personal music platform with a web player and Android/iOS app source. Organize and play your own music, create playlists, like tracks, and keep track of your listening history.</p>
+      <p><b>⭐ Features:</b></p>
+      <ul>
+        <li>Audio import, playback, seek, volume, shuffle, repeat, and queue</li>
+        <li>Search across title, artist, album, and genre</li>
+        <li>Playlists, liked songs, and listening history</li>
+        <li>Installable, responsive web app</li>
+        <li>Flutter mobile clients with an online API backend</li>
+      </ul>
+      <p>
+        <a href="https://minwave-omega.vercel.app">
+          <img src="https://img.shields.io/badge/Live_Demo-Visit-00C9A7?style=for-the-badge&logo=vercel&logoColor=white" alt="MINWAVE Live Demo"/>
+        </a>
+        <a href="https://github.com/Minhaz0100/MINWAVE">
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" alt="MINWAVE Source"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛒 Nexura OS</h3>
+      <p>Intelligent Commerce Operating System for Bangladesh.</p>
+      <p>
+        <a href="https://Minhaz0100.github.io/nexura-os/">
+          <img src="https://img.shields.io/badge/Live_Demo-Visit-00C9A7?style=for-the-badge&logo=github&logoColor=white" alt="Nexura OS Live Demo"/>
+        </a>
+        <a href="https://github.com/Minhaz0100/nexura-os">
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" alt="Nexura OS Source"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎲 LUDO Global &amp; LUDO ROYALE</h3>
+      <p>Mobile Ludo game projects (Kotlin / Android).</p>
+      <p>
+        <a href="https://github.com/Minhaz0100/LUDO-Global">
+          <img src="https://img.shields.io/badge/LUDO_Global-Source-181717?style=for-the-badge&logo=github" alt="LUDO Global"/>
+        </a>
+        <a href="https://github.com/Minhaz0100/LUDO-ROYALE">
+          <img src="https://img.shields.io/badge/LUDO_ROYALE-Source-181717?style=for-the-badge&logo=github" alt="LUDO ROYALE"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚌 JABO</h3>
+      <p>A web-based Dhaka city transportation system.</p>
+      <p>
+        <a href="https://github.com/Minhaz0100/JABO">
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" alt="JABO Source"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🗳 Decentralized Voting System with Blockchain</h3>
+      <p>A blockchain-based voting system built as a lab final project.</p>
+      <p>
+        <a href="https://github.com/Minhaz0100/Decentralized-Voting-System-with-Blockchain">
+          <img src="https://img.shields.io/badge/Source-GitHub-181717?style=for-the-badge&logo=github" alt="Voting System Source"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💻 C / C++ / Python Projects</h3>
+      <p>A collection of programming practice and academic projects.</p>
+      <p><b>📚 Includes:</b> Book Management (C++) • Game in C++ • Mixed C &amp; C++ projects • GLUT graphics project • Python programs</p>
+      <p>
+        <a href="https://github.com/Minhaz0100/Mixed-language-project-">
+          <img src="https://img.shields.io/badge/Mixed_C%2FC%2B%2B-Source-181717?style=for-the-badge&logo=github" alt="Mixed C and C++ projects"/>
+        </a>
+        <a href="https://github.com/Minhaz0100/glut-project">
+          <img src="https://img.shields.io/badge/GLUT_Project-Source-181717?style=for-the-badge&logo=github" alt="GLUT project"/>
         </a>
       </p>
     </td>
@@ -113,6 +205,11 @@ Goal:
       <h3>💻 Java Projects</h3>
       <p>A collection of Java practice projects.</p>
       <p><b>📚 Includes:</b> Calculator • Student Management • Library Management • Banking System • GUI Applications</p>
+      <p>
+        <a href="https://github.com/Minhaz0100/Java-program">
+          <img src="https://img.shields.io/badge/Java_Programs-Source-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Programs"/>
+        </a>
+      </p>
     </td>
   </tr>
 </table>
@@ -124,13 +221,19 @@ Goal:
 ### Programming Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js" alt="Programming Languages"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts,kotlin" alt="Programming Languages"/>
 </p>
 
 ### Frontend
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react" alt="Frontend Technologies"/>
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=kotlin,flutter,dart,androidstudio" alt="Mobile Technologies"/>
 </p>
 
 ### Backend
@@ -142,13 +245,13 @@ Goal:
 ### Database
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" alt="Databases"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis" alt="Databases"/>
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio" alt="Development Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,vercel" alt="Development Tools"/>
 </p>
 
 ---
@@ -259,7 +362,11 @@ Goal:
 
 🌐 Web Developer
 
+📱 Mobile App Builder
+
 🤖 MINOVA AI Builder
+
+🎵 MINWAVE Creator
 
 📚 Lifelong Learner
 
@@ -286,6 +393,8 @@ Goal:
 
 🍃 Database Design
 
+📱 Mobile App Development (Kotlin / Flutter)
+
 🤖 AI-Powered Application Development
 
 📱 Responsive UI Design
@@ -301,6 +410,7 @@ I enjoy collaborating on:
 
 - 🌐 Full Stack Web Apps
 - 🤖 AI-Powered Applications
+- 📱 Mobile Apps (Android / Flutter)
 - ☕ Java and C++ Projects
 - ⚛ React Projects
 - 📚 Open Source Software
